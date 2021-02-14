@@ -1,1 +1,1 @@
-hi this is a symple read me file.
+hi this is a simple read me file.
